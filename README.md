@@ -1,4 +1,5 @@
 This is a quiz app that tests your general knowledge. 
+It also displays your updated score as you reach the end of the Quiz.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
